@@ -12,6 +12,7 @@
     "eslint": "^5.4.0",
     "history": "latest",
     "meteor-node-stubs": "^0.4.1",
+    "prop-types": "^15.6.2",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-router": "^4.3.1",
