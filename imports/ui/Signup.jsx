@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom';
 import { Accounts } from 'meteor/accounts-base';
 
 export default class Signup extends Component {
-    constructor(props) {
-        super(props);
+    constructor() {
+        super();
         this.state = {
             error: '',
         };
