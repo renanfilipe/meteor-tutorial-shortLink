@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@babel/runtime": "7.0.0-beta.55",
+    "clipboard": "^2.0.1",
     "eslint": "^5.4.0",
     "history": "latest",
     "meteor-node-stubs": "^0.4.1",
